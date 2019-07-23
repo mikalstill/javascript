@@ -1,0 +1,31 @@
+#wrapper {
+    border: 1px;
+}
+
+.row {
+    border: 1px;
+}
+
+.pin {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: 1px solid red;
+    background-color: #FFF;
+    text-align: center;
+    font-size: 16;
+}
+
+.unknown {
+    background-color: #CCC;
+}
+
+.guess {
+    display: inline-block;
+    width: 80px;
+    height: 40px;
+    border: 1px solid gray;
+    background-color: #FFF;
+    text-align: center;
+    font-size: 16;
+}
